@@ -1,2 +1,2 @@
 # Funcion
-En este repositorio se subirá la función ante el proyecto ArcData
+En este repositorio se subirá la función TIMESTAMPDIFF() ante el proyecto ArcData

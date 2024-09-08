@@ -4,7 +4,6 @@ En este apartado se genera la base de datos completa, se genera la creacion de l
 CREATE DATABASE ArcData;
 USE ArcData;
 
--- Crear las tablas según tu definición
 CREATE TABLE IF NOT EXISTS EPS
 (
   Id_Eps INT NOT NULL UNIQUE,
